@@ -8,8 +8,8 @@ Calculate the leverage required based on your Max Risk.
 Let's say you want to risk 8% of your total account, then the leverage is going to be 5.    
 
 # Install / Usage
-- Download [Leverage Files](https://raw.githubusercontent.com/ixjb94/leverage/refs/heads/main/dist.zip)
-- Unzip the file
+- Download [Leverage Files](https://raw.githubusercontent.com/ixjb94/leverage/refs/heads/main/leverage.zip)
+- Unzip the leverage.zip
 - Go to: "Manage Extensions" in your browser
 - Developer Mode
 - Load unpacked
@@ -18,6 +18,7 @@ Let's say you want to risk 8% of your total account, then the leverage is going 
     => Set your Max Loss (Example: 8%)    
     => Set the Fee (Example: 0.1%)    
 
+**NOTE: You need to go to the leverage file as well, means you should be able to see manifest.json file**    
 **NOTE: Don't add "%"**
 
 # Limit Websites
