@@ -15,7 +15,9 @@ Let's say you want to risk 8% of your total account, then the leverage is going 
 - Set downloaded folder
 
 # Limit Websites
-
+- Manage Extension
+- Site access
+- On specific sites: (example.com / tradingview.com / binance.com, etc.)
 
 # Example
 - Stop Loss: 1.5%    
