@@ -8,11 +8,11 @@ Calculate the leverage required based on your Max Risk.
 Let's say you want to risk 8% of your total account, then the leverage is going to be 5.    
 
 # Install / Usage
-- Download the 
-- Manage Manage Extensions
+- Download [Leverage Files](https://raw.githubusercontent.com/ixjb94/leverage/refs/heads/main/dist.zip)
+- Go to: "Manage Extensions" in your browser
 - Developer Mode
 - Load unpacked
-- Set downloader folder
+- Set downloaded folder
 
 # Limit Websites
 
@@ -28,3 +28,6 @@ Let's say you want to risk 8% of your total account, then the leverage is going 
 
 How does it look like in a page:    
 ![Page](https://raw.githubusercontent.com/ixjb94/leverage/refs/heads/main/images/2.png  "Page")
+
+# Chrome Store
+Feel free to publish it in the chrome store market.
