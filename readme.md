@@ -19,7 +19,7 @@ Let's say you want to risk 8% of your total account, then the leverage is going 
     => Set the Fee (Example: 0.1%)    
 
 **NOTE: You need to go to the leverage file as well, means you should be able to see manifest.json file**    
-**NOTE: Don't add "%"**
+**NOTE: Don't add "%"**    
 **NOTE: You can simply press Enter it will calculate it as well**
 
 # Limit Websites
