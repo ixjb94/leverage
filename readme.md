@@ -13,6 +13,10 @@ Let's say you want to risk 8% of your total account, then the leverage is going 
 - Developer Mode
 - Load unpacked
 - Set downloaded folder
+- Click on the exntesion (Leverage)
+    => Set your Max Loss (Example: 8%)
+    => Set the Fee (Example: 0.1%)
+NOTE: please don't add "%"    
 
 # Limit Websites
 - Manage Extension
