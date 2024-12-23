@@ -17,3 +17,4 @@ Let's say you want to risk 8% of your total account, then the leverage is going 
 - Leverage: 5
 
 # Images
+![Leverage](https://raw.githubusercontent.com/ixjb94/leverage/master/1.png  "Leverage")
