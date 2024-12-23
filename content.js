@@ -36,6 +36,7 @@ styles.innerHTML = `
     margin: 5px;
     padding: 5px;
     color: black;
+    background: white;
 }
 .mt5 {
     margin-top: 5px;
