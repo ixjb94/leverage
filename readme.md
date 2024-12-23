@@ -7,7 +7,14 @@ You can Drag/Drop it where ever you want to.
 Calculate the leverage required based on your Max Risk.    
 Let's say you want to risk 8% of your total account, then the leverage is going to be 5.    
 
-# Usage
+# Install / Usage
+- Download the 
+- Manage Manage Extensions
+- Developer Mode
+- Load unpacked
+- Set downloader folder
+
+# Limit Websites
 
 
 # Example
@@ -18,3 +25,6 @@ Let's say you want to risk 8% of your total account, then the leverage is going 
 
 # Images
 ![Leverage](https://raw.githubusercontent.com/ixjb94/leverage/refs/heads/main/images/1.png  "Leverage")
+
+How does it look like in a page:    
+![Page](https://raw.githubusercontent.com/ixjb94/leverage/refs/heads/main/images/2.png  "Page")
