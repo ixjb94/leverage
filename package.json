@@ -1,0 +1,12 @@
+{
+  "name": "@ixjb94/leverage",
+  "version": "1.0.0",
+  "description": "Calculate the Leverage required based on the max risk wanted",
+  "keywords": [],
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/ixjb94/leverage.git"
+	},
+  "author": "IX JB",
+	"license": "MIT"
+}
