@@ -34,7 +34,8 @@ Let's say you want to risk 8% of your total account, then the leverage is going 
 ![Leverage](https://raw.githubusercontent.com/ixjb94/leverage/refs/heads/main/images/1.png  "Leverage")
 
 How does it look like in a page:    
-![Page](https://raw.githubusercontent.com/ixjb94/leverage/refs/heads/main/images/2.png  "Page")
+![TradingView](https://raw.githubusercontent.com/ixjb94/leverage/refs/heads/main/images/3.png  "TradingView")
+![Google](https://raw.githubusercontent.com/ixjb94/leverage/refs/heads/main/images/2.png  "Google")
 
 # Chrome Store
 Feel free to publish it in the Chrome Web Store.
