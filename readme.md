@@ -30,4 +30,4 @@ How does it look like in a page:
 ![Page](https://raw.githubusercontent.com/ixjb94/leverage/refs/heads/main/images/2.png  "Page")
 
 # Chrome Store
-Feel free to publish it in the chrome store market.
+Feel free to publish it in the Chrome Web Store.
