@@ -9,6 +9,7 @@ Let's say you want to risk 8% of your total account, then the leverage is going 
 
 # Install / Usage
 - Download [Leverage Files](https://raw.githubusercontent.com/ixjb94/leverage/refs/heads/main/dist.zip)
+- Unzip the file
 - Go to: "Manage Extensions" in your browser
 - Developer Mode
 - Load unpacked
