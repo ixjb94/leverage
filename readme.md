@@ -7,6 +7,10 @@ You can Drag/Drop it where ever you want to.
 Calculate the leverage required based on your Max Risk.    
 Let's say you want to risk 8% of your total account, then the leverage is going to be 5.    
 
+# Dynamic Quantity
+There is also another version of this code that does the same thing but with dynamic Quantity    
+[Quantity](https://github.com/ixjb94/quantity)
+
 # Install / Usage
 - Download [Leverage.zip](https://raw.githubusercontent.com/ixjb94/leverage/refs/heads/main/leverage.zip)
 - Unzip the leverage.zip
